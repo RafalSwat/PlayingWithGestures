@@ -3,27 +3,59 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		075A5C9C264A7C8F00A5FAF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5C9B264A7C8F00A5FAF6 /* AppDelegate.swift */; };
 		075A5C9E264A7C8F00A5FAF6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5C9D264A7C8F00A5FAF6 /* SceneDelegate.swift */; };
-		075A5CA0264A7C8F00A5FAF6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5C9F264A7C8F00A5FAF6 /* ViewController.swift */; };
 		075A5CA3264A7C8F00A5FAF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CA1264A7C8F00A5FAF6 /* Main.storyboard */; };
 		075A5CA5264A7C9400A5FAF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CA4264A7C9400A5FAF6 /* Assets.xcassets */; };
 		075A5CA8264A7C9400A5FAF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CA6264A7C9400A5FAF6 /* LaunchScreen.storyboard */; };
+		075A5CB0264A8F7000A5FAF6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CAF264A8F7000A5FAF6 /* HomeViewController.swift */; };
+		075A5CB2264A925B00A5FAF6 /* homeBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CB1264A925B00A5FAF6 /* homeBackground.jpg */; };
+		075A5CBB264A9FA500A5FAF6 /* HomeViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CB9264A9FA500A5FAF6 /* HomeViewCell.swift */; };
+		075A5CC2264ACB7A00A5FAF6 /* cellbackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CC1264ACB7A00A5FAF6 /* cellbackground.jpg */; };
+		075A5CC4264BCB4A00A5FAF6 /* HomeModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CC3264BCB4A00A5FAF6 /* HomeModelView.swift */; };
+		075A5CC6264BCD7000A5FAF6 /* Icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CC5264BCD7000A5FAF6 /* Icon.swift */; };
+		075A5CC8264BDCA700A5FAF6 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CC7264BDCA700A5FAF6 /* Animations.swift */; };
+		075A5CCA264BEED300A5FAF6 /* trashBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CC9264BEED200A5FAF6 /* trashBackground.jpg */; };
+		075A5CCC264C0B8500A5FAF6 /* TrashFunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075A5CCB264C0B8500A5FAF6 /* TrashFunViewController.swift */; };
+		075A5CCE264C24A100A5FAF6 /* wheelBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 075A5CCD264C24A100A5FAF6 /* wheelBackground.jpg */; };
+		0760CCB12652870C00A77FA9 /* milkyWayBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0760CCB02652870C00A77FA9 /* milkyWayBackground.jpg */; };
+		0762E3C6264F0A1400EBFB00 /* SpaceTravelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0762E3C5264F0A1400EBFB00 /* SpaceTravelViewController.swift */; };
+		07689113264D3A41004DFB31 /* SpinningWheelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07689112264D3A41004DFB31 /* SpinningWheelViewController.swift */; };
+		07689115264D85E9004DFB31 /* backgroundSpinWheel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 07689114264D85E9004DFB31 /* backgroundSpinWheel.jpg */; };
+		07689117264D8FDA004DFB31 /* SpinningWheelModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07689116264D8FDA004DFB31 /* SpinningWheelModelView.swift */; };
+		BDB982E9F61AED9F3D513A49 /* Pods_PlayingWithGestures.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48C4066B9E98B986AFE70D0F /* Pods_PlayingWithGestures.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		075A5C98264A7C8F00A5FAF6 /* PlayingWithGestures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayingWithGestures.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		075A5C9B264A7C8F00A5FAF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		075A5C9D264A7C8F00A5FAF6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		075A5C9F264A7C8F00A5FAF6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		075A5CA2264A7C8F00A5FAF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		075A5CA4264A7C9400A5FAF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		075A5CA7264A7C9400A5FAF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		075A5CA9264A7C9400A5FAF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		075A5CAF264A8F7000A5FAF6 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		075A5CB1264A925B00A5FAF6 /* homeBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = homeBackground.jpg; path = PlayingWithGestures/Backgrounds/homeBackground.jpg; sourceTree = SOURCE_ROOT; };
+		075A5CB9264A9FA500A5FAF6 /* HomeViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewCell.swift; sourceTree = "<group>"; };
+		075A5CC1264ACB7A00A5FAF6 /* cellbackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cellbackground.jpg; path = PlayingWithGestures/Backgrounds/cellbackground.jpg; sourceTree = SOURCE_ROOT; };
+		075A5CC3264BCB4A00A5FAF6 /* HomeModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModelView.swift; sourceTree = "<group>"; };
+		075A5CC5264BCD7000A5FAF6 /* Icon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icon.swift; sourceTree = "<group>"; };
+		075A5CC7264BDCA700A5FAF6 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
+		075A5CC9264BEED200A5FAF6 /* trashBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = trashBackground.jpg; path = PlayingWithGestures/Backgrounds/trashBackground.jpg; sourceTree = SOURCE_ROOT; };
+		075A5CCB264C0B8500A5FAF6 /* TrashFunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrashFunViewController.swift; sourceTree = "<group>"; };
+		075A5CCD264C24A100A5FAF6 /* wheelBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = wheelBackground.jpg; path = PlayingWithGestures/Backgrounds/wheelBackground.jpg; sourceTree = SOURCE_ROOT; };
+		0760CCB02652870C00A77FA9 /* milkyWayBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = milkyWayBackground.jpg; path = PlayingWithGestures/Backgrounds/milkyWayBackground.jpg; sourceTree = SOURCE_ROOT; };
+		0762E3C5264F0A1400EBFB00 /* SpaceTravelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaceTravelViewController.swift; sourceTree = "<group>"; };
+		07689112264D3A41004DFB31 /* SpinningWheelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinningWheelViewController.swift; sourceTree = "<group>"; };
+		07689114264D85E9004DFB31 /* backgroundSpinWheel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = backgroundSpinWheel.jpg; path = PlayingWithGestures/Backgrounds/backgroundSpinWheel.jpg; sourceTree = SOURCE_ROOT; };
+		07689116264D8FDA004DFB31 /* SpinningWheelModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinningWheelModelView.swift; sourceTree = "<group>"; };
+		0B0A1AE6F54C220C8133256A /* Pods-PlayingWithGestures.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayingWithGestures.debug.xcconfig"; path = "Target Support Files/Pods-PlayingWithGestures/Pods-PlayingWithGestures.debug.xcconfig"; sourceTree = "<group>"; };
+		48C4066B9E98B986AFE70D0F /* Pods_PlayingWithGestures.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PlayingWithGestures.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9ED2B63AA8E241B1806BF49A /* Pods-PlayingWithGestures.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PlayingWithGestures.release.xcconfig"; path = "Target Support Files/Pods-PlayingWithGestures/Pods-PlayingWithGestures.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDB982E9F61AED9F3D513A49 /* Pods_PlayingWithGestures.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +75,8 @@
 			children = (
 				075A5C9A264A7C8F00A5FAF6 /* PlayingWithGestures */,
 				075A5C99264A7C8F00A5FAF6 /* Products */,
+				D95E3455B3E053E85D474442 /* Pods */,
+				F3F65512588830673E804CCB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,13 +93,84 @@
 			children = (
 				075A5C9B264A7C8F00A5FAF6 /* AppDelegate.swift */,
 				075A5C9D264A7C8F00A5FAF6 /* SceneDelegate.swift */,
-				075A5C9F264A7C8F00A5FAF6 /* ViewController.swift */,
+				075A5CC7264BDCA700A5FAF6 /* Animations.swift */,
+				07689107264D29A1004DFB31 /* Home */,
+				07689108264D29C1004DFB31 /* TrashFun */,
+				07689109264D29D5004DFB31 /* SpinningWheel */,
+				0762E3C4264F09FE00EBFB00 /* SpaceTravel */,
 				075A5CA1264A7C8F00A5FAF6 /* Main.storyboard */,
 				075A5CA4264A7C9400A5FAF6 /* Assets.xcassets */,
+				0760CCB226529CC800A77FA9 /* Backgrounds */,
 				075A5CA6264A7C9400A5FAF6 /* LaunchScreen.storyboard */,
 				075A5CA9264A7C9400A5FAF6 /* Info.plist */,
 			);
 			path = PlayingWithGestures;
+			sourceTree = "<group>";
+		};
+		0760CCB226529CC800A77FA9 /* Backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				075A5CB1264A925B00A5FAF6 /* homeBackground.jpg */,
+				075A5CC1264ACB7A00A5FAF6 /* cellbackground.jpg */,
+				075A5CCD264C24A100A5FAF6 /* wheelBackground.jpg */,
+				075A5CC9264BEED200A5FAF6 /* trashBackground.jpg */,
+				07689114264D85E9004DFB31 /* backgroundSpinWheel.jpg */,
+				0760CCB02652870C00A77FA9 /* milkyWayBackground.jpg */,
+			);
+			path = Backgrounds;
+			sourceTree = "<group>";
+		};
+		0762E3C4264F09FE00EBFB00 /* SpaceTravel */ = {
+			isa = PBXGroup;
+			children = (
+				0762E3C5264F0A1400EBFB00 /* SpaceTravelViewController.swift */,
+			);
+			path = SpaceTravel;
+			sourceTree = "<group>";
+		};
+		07689107264D29A1004DFB31 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				075A5CAF264A8F7000A5FAF6 /* HomeViewController.swift */,
+				075A5CC3264BCB4A00A5FAF6 /* HomeModelView.swift */,
+				075A5CB9264A9FA500A5FAF6 /* HomeViewCell.swift */,
+				075A5CC5264BCD7000A5FAF6 /* Icon.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		07689108264D29C1004DFB31 /* TrashFun */ = {
+			isa = PBXGroup;
+			children = (
+				075A5CCB264C0B8500A5FAF6 /* TrashFunViewController.swift */,
+			);
+			path = TrashFun;
+			sourceTree = "<group>";
+		};
+		07689109264D29D5004DFB31 /* SpinningWheel */ = {
+			isa = PBXGroup;
+			children = (
+				07689112264D3A41004DFB31 /* SpinningWheelViewController.swift */,
+				07689116264D8FDA004DFB31 /* SpinningWheelModelView.swift */,
+			);
+			path = SpinningWheel;
+			sourceTree = "<group>";
+		};
+		D95E3455B3E053E85D474442 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0B0A1AE6F54C220C8133256A /* Pods-PlayingWithGestures.debug.xcconfig */,
+				9ED2B63AA8E241B1806BF49A /* Pods-PlayingWithGestures.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F3F65512588830673E804CCB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				48C4066B9E98B986AFE70D0F /* Pods_PlayingWithGestures.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +180,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 075A5CAC264A7C9400A5FAF6 /* Build configuration list for PBXNativeTarget "PlayingWithGestures" */;
 			buildPhases = (
+				9C482CF69B04F01F9BC89904 /* [CP] Check Pods Manifest.lock */,
 				075A5C94264A7C8F00A5FAF6 /* Sources */,
 				075A5C95264A7C8F00A5FAF6 /* Frameworks */,
 				075A5C96264A7C8F00A5FAF6 /* Resources */,
+				1FCBF6122FEDC756ED0A2489 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -124,22 +232,78 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				075A5CCA264BEED300A5FAF6 /* trashBackground.jpg in Resources */,
 				075A5CA8264A7C9400A5FAF6 /* LaunchScreen.storyboard in Resources */,
 				075A5CA5264A7C9400A5FAF6 /* Assets.xcassets in Resources */,
+				075A5CB2264A925B00A5FAF6 /* homeBackground.jpg in Resources */,
 				075A5CA3264A7C8F00A5FAF6 /* Main.storyboard in Resources */,
+				07689115264D85E9004DFB31 /* backgroundSpinWheel.jpg in Resources */,
+				075A5CC2264ACB7A00A5FAF6 /* cellbackground.jpg in Resources */,
+				0760CCB12652870C00A77FA9 /* milkyWayBackground.jpg in Resources */,
+				075A5CCE264C24A100A5FAF6 /* wheelBackground.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1FCBF6122FEDC756ED0A2489 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PlayingWithGestures/Pods-PlayingWithGestures-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PlayingWithGestures/Pods-PlayingWithGestures-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PlayingWithGestures/Pods-PlayingWithGestures-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9C482CF69B04F01F9BC89904 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PlayingWithGestures-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		075A5C94264A7C8F00A5FAF6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				075A5CA0264A7C8F00A5FAF6 /* ViewController.swift in Sources */,
+				075A5CC4264BCB4A00A5FAF6 /* HomeModelView.swift in Sources */,
+				0762E3C6264F0A1400EBFB00 /* SpaceTravelViewController.swift in Sources */,
+				075A5CCC264C0B8500A5FAF6 /* TrashFunViewController.swift in Sources */,
 				075A5C9C264A7C8F00A5FAF6 /* AppDelegate.swift in Sources */,
+				075A5CC6264BCD7000A5FAF6 /* Icon.swift in Sources */,
+				075A5CBB264A9FA500A5FAF6 /* HomeViewCell.swift in Sources */,
 				075A5C9E264A7C8F00A5FAF6 /* SceneDelegate.swift in Sources */,
+				07689117264D8FDA004DFB31 /* SpinningWheelModelView.swift in Sources */,
+				07689113264D3A41004DFB31 /* SpinningWheelViewController.swift in Sources */,
+				075A5CB0264A8F7000A5FAF6 /* HomeViewController.swift in Sources */,
+				075A5CC8264BDCA700A5FAF6 /* Animations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +447,7 @@
 		};
 		075A5CAD264A7C9400A5FAF6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0B0A1AE6F54C220C8133256A /* Pods-PlayingWithGestures.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -302,6 +467,7 @@
 		};
 		075A5CAE264A7C9400A5FAF6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9ED2B63AA8E241B1806BF49A /* Pods-PlayingWithGestures.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
