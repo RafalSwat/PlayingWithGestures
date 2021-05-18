@@ -43,7 +43,7 @@ MIT
 [//]: #
 [Unsplash]: <https://unsplash.com>
 [SpinWheel]: <https://cocoapods.org/pods/SpinWheelControl>
-[Luke Chesser]]: <https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>
+[Luke Chesser]: <https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>
 [mohammad alizade]: <https://unsplash.com/@mohamadaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>
 [Marjan Blan | @marjanblan]: <https://unsplash.com/@marjan_blan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>
 [Graham Holtshausen]: <https://unsplash.com/@freedomstudios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>
