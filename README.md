@@ -8,7 +8,7 @@ An application that shows the various types of gestures in combination with basi
 ## Gifs
 
 ![gif 1](https://media.giphy.com/media/gc9A6Q5B6Upmd7VMAH/giphy.gif) ![gif 2](https://media.giphy.com/media/h0Dell0069jYW99gYK/giphy.gif) 
-![gif 3](https://media.giphy.com/media/ArARybLSSynlx5aEw2/giphy.gif) ![gif 4](https://media.giphy.com/media/3hfJkE1QDwKYMkHfLP/giphy.gif)
+![gif 3](https://media.giphy.com/media/ArARybLSSynlx5aEw2/giphy.gif) ![gif 4](gifs/gif4.gif)
 
 ## Technologies
 
